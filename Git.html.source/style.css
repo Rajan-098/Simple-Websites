@@ -1,0 +1,39 @@
+#heading{
+    height: 180px;
+    width: 100%;
+    color: rgb(220, 245, 239);
+    font-size:x-large;
+    display: inline-flex;
+}
+#heading img{
+    height: 180px;
+    margin-right: 100px;
+}
+#heading #headingText{
+    padding: 70px;    
+}
+#list{
+    padding-top: 10px;
+    cursor: default;
+    margin: 0;
+    height: 27px;
+    margin-bottom: 0;
+    background-color: rgb(212, 219, 218);
+}
+li{
+    margin-left: 0px;
+    display: inline;
+    text-align: right;
+    padding: 10px;
+    text-decoration: none;
+    background-color: rgb(212, 219, 218);
+}
+#content{
+    padding: 30px;
+    color: white;
+    background-color: rgb(77, 77, 87);
+    display: none;
+}
+#first_box{
+    background-color: rgb(77, 77, 87);
+}
